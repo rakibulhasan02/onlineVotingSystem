@@ -3,7 +3,7 @@
 #include <time.h>
 #include<stdlib.h>
 
-#define MAX_CANDIDATES 3
+#define MAX_CANDIDATES 5
 #define MAX_VOTERS 5
 
 typedef struct
