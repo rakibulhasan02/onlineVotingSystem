@@ -1,3 +1,9 @@
+
+/*Online voting system
+this is 1st year 2nd semester project
+IT-23002
+Md Rakibul Hasan
+*/
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
