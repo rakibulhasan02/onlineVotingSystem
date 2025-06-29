@@ -20,8 +20,8 @@ typedef struct
 
 Candidate candidates[MAX_CANDIDATES] =
 {
-    {"Dr Younus", 0},
-    {"Khaleda Zia", 0},
+    {"Mahim Hasan", 0},
+    {"Dr.Younus ", 0},
     {"Ershad Uddin", 0}
 };
 
