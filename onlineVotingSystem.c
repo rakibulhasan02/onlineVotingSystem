@@ -3,7 +3,7 @@
 This is first year 1st semester project
 IT-23002
 Md Rakibul Hasan
-This is my first time project
+
 */
 #include <stdio.h>
 #include <string.h>
