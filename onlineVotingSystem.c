@@ -278,5 +278,5 @@ void displayLeadingCandidate()
 // Check Admin credentials
 int checkAdmin(char *username, char *password)
 {
-    return(strcmp(username,"admin")==0&& strcmp(password,"admin123")==0);
+    return(strcmp(username,"rakibul")==0&& strcmp(password,"rakibul123")==0);
 }
