@@ -1,6 +1,6 @@
 
 /*Online voting system
-this is 1st year 2nd semester project
+This is first year 1st semester project
 IT-23002
 Md Rakibul Hasan
 */
